@@ -1,6 +1,7 @@
 Numer albumu: 89465.
 
-##Instalacja przy użyciu cmd.
+#Instalacja przy użyciu cmd.
+
 Wchodzimy w folder zawierający plik "Makefile.bat"
 ![Zrzut ekranu 2024-03-24 213743](https://github.com/XxPOLSKAGUROMxX/cw_nauka_gita/assets/164654112/a31f0921-eedf-43d9-91e8-a811ddce7669)
 W pasku adresu wpisujemy "cmd" i klikamy enter
