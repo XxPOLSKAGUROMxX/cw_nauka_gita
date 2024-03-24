@@ -25,6 +25,9 @@ Zostaną wtedy zainstalowane brakujące zależności z pliku requirements.txt or
 Po tym automatycznie włączy się nasza aplikacja(host lokalnej strony za pomocą biblioteki flask) dostępna pod linkiem: http://127.0.0.1:5000.
 
 ###########
+
 #komentarz#
+
 ###########
+
 Polecenia są dla linuxa, niestety obecnie nie mam możliwości zainstalowania go na swoich urządzeniach, dlatego wykonałem zadanie przy użyciu systemu Windows. 
